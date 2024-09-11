@@ -5,7 +5,7 @@ I've open this list because a lot of data and lists out there is outdated and si
 
 # Awesome Next.js Resources and Valuable Information About nextjs
 
-[<img src="next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
+[<img src="./next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
 
 > Carefully Selected articles, informations, videos, resoucres, libraries and more about nextjs.
 
@@ -59,12 +59,14 @@ Who use Nextjs?
 - [stackshare.io](https://stackshare.io/next-js) - What Softwar Engineers thing about Nextjs?
 
 ## Start
+Start here with docs or with the command:
 
+- Best way to start: `npx create-next-app@latest NEXTJS_PROJECT_NAME`
+- Active learning with [gpteach.us](gpteach.us)
 - [Blog](https://nextjs.org/blog)
 - [Learn](https://nextjs.org/learn)
 - [Bulletproof Next](https://getstarted.sh/bulletproof-next)
 - [Create Nextjs App](https://nextjs.org/learn-pages-router/basics/create-nextjs-app)
-- and of course: `npx create-next-app@latest NEXTJS_PROJECT_NAME`
 
 ## Articles
 - [Todo App With NextJS](https://blog.lior.live/software-engineering/nextjs-13-tutorial-todo-app-2024/)
