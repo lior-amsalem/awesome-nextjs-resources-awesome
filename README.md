@@ -5,7 +5,7 @@ I've open this list because a lot of data and lists out there is outdated and si
 
 # Awesome Next.js Resources and Valuable Information About nextjs
 
-[<img src="./next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
+[<img src="./nextjslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
 
 > Carefully Selected articles, informations, videos, resoucres, libraries and more about nextjs.
 
@@ -69,6 +69,7 @@ Start here with docs or with the command:
 - [Create Nextjs App](https://nextjs.org/learn-pages-router/basics/create-nextjs-app)
 
 ## Articles
+- [Auth App Next-auth and Google Sign-in](https://blog.lior.live/software-engineering/auth-app-next-auth-and-google-sign-in/)
 - [Todo App With NextJS](https://blog.lior.live/software-engineering/nextjs-13-tutorial-todo-app-2024/)
 - [First Timer Engineer NextJS Setup And Install Everything You Need](https://blog.lior.live/software-engineering/first-day-nextjs-engineer-lets-install-it-all/)
 - [Migration from Nextjs 12 to Nextjs 13](https://lior-amsalem.hashnode.dev/how-to-migrate-nextjs-v12-to-v13-app-folder)
@@ -169,6 +170,7 @@ Start here with docs or with the command:
 
 ## Videos
 
+* [Set up Google OAuth with Next.js using Next-Auth](https://www.youtube.com/watch?v=ot9yuKg15iA)
 * [Build Admin Page With Nextjs](https://www.youtube.com/watch?v=B81UvJlcTYU)
 * [Introduction to Next.js](https://www.youtube.com/watch?v=Fnw3lNeH-XI)
 * [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
