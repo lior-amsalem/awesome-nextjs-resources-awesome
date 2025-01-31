@@ -70,6 +70,7 @@ Start here with docs or with the command:
 
 ## Articles
 - [Auth App Next-auth and Google Sign-in](https://blog.lior.live/software-engineering/auth-app-next-auth-and-google-sign-in/)
+- [Implementing RBAC Authorization in Next.js](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 - [Todo App With NextJS](https://blog.lior.live/software-engineering/nextjs-13-tutorial-todo-app-2024/)
 - [First Timer Engineer NextJS Setup And Install Everything You Need](https://blog.lior.live/software-engineering/first-day-nextjs-engineer-lets-install-it-all/)
 - [Migration from Nextjs 12 to Nextjs 13](https://lior-amsalem.hashnode.dev/how-to-migrate-nextjs-v12-to-v13-app-folder)
