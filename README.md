@@ -124,6 +124,7 @@ Start here with docs or with the command:
 - [NextJS Chargebee Subscription](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 - [Next.js Enterprise](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+- [WebDecoy Next.js Bot Traffic Monitor](https://github.com/WebDecoy/nextjs-bot-monitor) - MIT App Router starter for observing crawler requests with a Vercel deployment example and local smoke tests.
 
 ## Extensions
 
